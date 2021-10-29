@@ -20,7 +20,7 @@ public class NumberGuessingGame {
             }
 
         }
-        System.out.println("Number thought by computer is: " + computerThoughtNumber);
+        System.out.println("Computer thought number is: " + computerThoughtNumber);
     }
 }
 
