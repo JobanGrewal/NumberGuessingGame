@@ -21,6 +21,7 @@ public class NumberGuessingGame {
 
         }
         System.out.println("Computer thought number is: " + computerThoughtNumber);
+         System.out.println("Changes");
     }
 }
 
